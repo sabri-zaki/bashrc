@@ -23,7 +23,7 @@ white='\e[1;37m'
 #echo
 #echo -e $yellow" ---------------($red  T E R M U X  $yellow)---------------"
 #echo -e $yellow
-figlet "                    zaki" | lolcat -F 10
+figlet "               zaki" | lolcat -F 10
 echo -e $yellow"-----☆☆☆" $red "zaki for penetration testing $white"$yellow ☆☆☆-----
 echo -e $purple"           《$red T$green E$yellow R$red M$green U$yellow X$white of$green Z$red A$green K$yellow I$purple 》"
 echo -e $white"    《$white"Z"$red"A"$green"K"$yellow"I"$white"》"$green<====F$red=====A$yellow=====T$purple====>$green《$white"S"$red"A"$green"B"$yellow"R"$red"I"$white"》" "
